@@ -1,0 +1,38 @@
+.header{
+    display: inline;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+    word-spacing: 70px;
+    font-weight: 800;
+    width:100vw;
+}
+nav{
+    background-color: black;
+    border-radius: 5px;
+    padding-top: 10px;
+}
+nav > a{
+    text-decoration: none;
+    color: white;
+    text-transform: uppercase;
+}
+.jee{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-weight: 400;
+    font-size: 20px;
+}
+
+.jerry{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+}
+.jon{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 600px;
+    font-size: 30px;
+    color: tomato;
+
+}
